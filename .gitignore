@@ -1,0 +1,14 @@
+# Ambiente virtual e cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Segredos e configuração local
+.env
+.claude/settings.local.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
